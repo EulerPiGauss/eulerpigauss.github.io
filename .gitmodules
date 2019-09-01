@@ -1,0 +1,3 @@
+[submodule "themes/hexo"]
+	path = themes/hexo
+	url = https://github.com/EulerPiGauss/hexo.git
