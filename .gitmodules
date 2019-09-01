@@ -1,3 +1,6 @@
 [submodule "themes/hexo"]
 	path = themes/hexo
 	url = https://github.com/EulerPiGauss/hexo.git
+[submodule "source/_posts"]
+	path = source/_posts
+	url = https://github.com/EulerPiGauss/blog_articles.git
